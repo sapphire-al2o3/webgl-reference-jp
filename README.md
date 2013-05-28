@@ -7,4 +7,4 @@ WebGLRenderingContext のメソッドのプロパティ、リファレンスで�
 
 [OpenGL ES 2.0 Reference Pages](http://www.khronos.org/opengles/sdk/docs/man/)
 
-[Wiki](/wiki)
+[リファレンス](https://github.com/sapphire-al2o3/webgl-reference-jp/wiki)
