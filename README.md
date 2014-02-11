@@ -7,5 +7,6 @@ WebGL Reference Card を元に OpenGL ES 2.0 のリファレンスページな�
 - [WebGL Reference Card](http://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf)
 - [OpenGL ES 2.0 Reference Pages](http://www.khronos.org/opengles/sdk/docs/man/)
 - [WebGL Specification](http://www.khronos.org/registry/webgl/specs/latest/)
+- [MSDN WebGL](http://msdn.microsoft.com/ja-jp/library/ie/bg182648(v=vs.85).aspx)
 
 [WebGL リファレンス](https://github.com/sapphire-al2o3/webgl-reference-jp/wiki)
